@@ -211,7 +211,8 @@ html,body{
         grid-template-columns:repeat(1,1fr);
         grid-template-rows: repeat(7,auto);
         grid-template-areas: 
-        "logo menu"
+        "logo"
+        "menu"
         "tracking"
         "tarif"
         "search"
