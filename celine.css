@@ -203,8 +203,6 @@ html,body{
 }
 
 
-/** media **/
-
 /* media */
 
 @media screen and (max-width: 600px){
@@ -216,7 +214,7 @@ html,body{
         "logo" 
         "menu"
         "search"
-        "benner"
+        "banner"
         "tracking"
         "tarif"
         "layanan";
@@ -238,7 +236,7 @@ html,body{
         grid-template-areas: 
         "logo menu"
         "search search"
-        "benner benner"
+        "banner banner"
         "tracking tarif"
         "layanan layanan";
     }
